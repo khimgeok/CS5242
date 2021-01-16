@@ -1,3 +1,2 @@
-# hello-world
-just another repository
-Learning how to use github
+# CS5424
+Documenting my practices for homework and practicals
